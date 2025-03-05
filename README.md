@@ -1,15 +1,15 @@
-<h1 align="center">Hi , I'm IchanZX CoderID  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm NdikzOne  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <details>
 <summary>:zap: Kumpulan Website Saya</summary>
 <a href="https://protofolio-ndikz.vercel.app/">My Webiste</a>
 <a href="https://ndikz-tree.vercel.app/">Link Tree Website</a>
 </details>
 
-<a href="https://github.com/NdikzOne"><img src="http://readme-typing-svg.herokuapp.com?color=00ff0f&center=true&vCenter=true&multiline=false&lines=Hallow+Salken+Nama+Saya+Ichan+^_^" alt="UwU">
+<a href="https://github.com/NdikzOne"><img src="http://readme-typing-svg.herokuapp.com?color=00ff0f&center=true&vCenter=true&multiline=false&lines=Hallow+Salken+Nama+Saya+Ndikz+^_^" alt="UwU">
 
 #### I am a student who likes coding 
 
-- :boy: Name   :   NdikzOne | Andikz
+- :boy: Name   :   NdikzOne | Andika
 - :classical_building: Founder : NdikzOne
 - :house: Hobby   : Coding, Design, Gaming
 ------
@@ -46,4 +46,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NdikzOne&theme=tokyonight)
 
 <a href="https://sociabuzz.com/kezekun/tribe">If you want to buy me a drink, please do so. 😄</a>
-
