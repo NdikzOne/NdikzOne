@@ -5,7 +5,7 @@
 <a href="https://ndifora.vercel.app">Anime Website</a>
 </details>
 
-<a href="https://github.com/dikacandaa"><img src="http://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&multiline=false&lines=Halo%2C+Saya+Andika+^_^;Sedang+belajar+Frontend+%26+Backend" alt="Typing SVG"></a>
+<a href="https://github.com/NdikzOne"><img src="http://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&multiline=false&lines=Halo%2C+Saya+Andika+^_^;Sedang+belajar+Frontend+%26+Backend" alt="Typing SVG"></a>
 
 #### Sedang belajar membangun web application dari frontend sampai backend
 
@@ -48,7 +48,7 @@
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=nautilus)](https://github.com/dikacandaa)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=nautilus)](https://github.com/NdikzOne)
 
 ------
 
@@ -76,7 +76,7 @@ Website streaming dan informasi anime, dibuat sebagai proyek pembelajaran.
   <a href="mailto:dikacanda405@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/dikacandaa" target="_blank">
+  <a href="https://github.com/NdikzOne" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="#" target="_blank">
@@ -91,25 +91,25 @@ Website streaming dan informasi anime, dibuat sebagai proyek pembelajaran.
 
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dikacandaa&theme=2077" alt="Profile Details" style="width: 100%; max-width: 500px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dikacandaa&theme=2077" alt="Repos per Language" style="width: 48%; max-width: 300px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dikacandaa&theme=2077" alt="Most Commit Language" style="width: 48%; max-width: 300px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dikacandaa&theme=2077" alt="Stats" style="width: 48%; max-width: 300px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dikacandaa&theme=2077&utcOffset=7" alt="Productive Time" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NdikzOne&theme=2077" alt="Profile Details" style="width: 100%; max-width: 500px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NdikzOne&theme=2077" alt="Repos per Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NdikzOne&theme=2077" alt="Most Commit Language" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NdikzOne&theme=2077" alt="Stats" style="width: 48%; max-width: 300px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NdikzOne&theme=2077&utcOffset=7" alt="Productive Time" style="width: 48%; max-width: 300px;">
 </div>
 
 ------
 
 ## 🔥 Streak Stats
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikacandaa&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8" alt="Streak Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NdikzOne&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8" alt="Streak Stats">
 </div>
 
 ------
 
 ## 🏆 GitHub Profile Trophy
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=dikacandaa&theme=dracula&row=2&column=3&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies" style="width: 100%; max-width: 400px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=NdikzOne&theme=dracula&row=2&column=3&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies" style="width: 100%; max-width: 400px;">
 </div>
 
 ------
