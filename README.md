@@ -6,7 +6,7 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=dikacandaa&style=flat-square&color=38BDF8)
+![Profile Views](https://komarev.com/ghpvc/?username=NdikzOne&style=flat-square&color=38BDF8)
 
 
 [
@@ -238,12 +238,12 @@ A modern anime streaming and information website built as a learning project —
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dikacandaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dikacandaa&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=NdikzOne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NdikzOne&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikacandaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NdikzOne&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="49%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dikacandaa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NdikzOne&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff" width="98%" />
 
 </div>
 
@@ -262,7 +262,7 @@ A modern anime streaming and information website built as a learning project —
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-](https://github.com/dikacandaa)
+](https://github.com/NdikzOne)
 [
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
