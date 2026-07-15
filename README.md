@@ -123,7 +123,7 @@ A web application that provides anime streaming and anime information. This proj
 # 📈 Contribution Graph
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=andkachan&theme=tokyo-night&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=andikachan&theme=tokyo-night&hide_border=true">
 </div>
 
 ---
