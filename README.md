@@ -25,6 +25,7 @@ I'm passionate about building modern web applications from frontend to backend. 
 - 👤 **Name:** Andika Candra Prasetya
 - 📍 **Location:** Demak, Central Java, Indonesia 🇮🇩
 - 🚀 **Current Project:** [Anime Website](https://ndifora.vercel.app)
+- 🎵 **Music:** Pelangi -HIVI
 - 📧 **Email:** dikacanda405@gmail.com
 
 ---
@@ -96,7 +97,7 @@ A web application that provides anime streaming and anime information. This proj
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <a href="https://github.com/NdikzOne">
+  <a href="https://github.com/andikachan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
@@ -114,7 +115,7 @@ A web application that provides anime streaming and anime information. This proj
 # 🔥 GitHub Streak
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NdikzOne&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andikachan&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8">
 </div>
 
 ---
@@ -122,7 +123,7 @@ A web application that provides anime streaming and anime information. This proj
 # 📈 Contribution Graph
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NdikzOne&theme=tokyo-night&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=andkachan&theme=tokyo-night&hide_border=true">
 </div>
 
 ---
