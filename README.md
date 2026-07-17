@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/NdikzOne">
+  <a href="https://github.com/andikachan">
     <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&lines=Hi%2C+I'm+Andika+Candra+Prasetya;Full-Stack+Web+Developer+Learner;Building+Modern+Web+Applications" alt="Typing SVG">
   </a>
 </p>
